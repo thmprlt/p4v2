@@ -12,9 +12,6 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
-p {
-    font-size: 12px;
-}
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -367,6 +364,7 @@ a:hover {
 .text1 {
     font-size: 24px;
     color: #575757;
+    margin-bottom: 2rem;
 }
 
 .text2 {
@@ -702,7 +700,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -843,11 +841,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere.avif");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/image-de-presentation.avif");
 }
 
 @media (max-width: 1024px) {
